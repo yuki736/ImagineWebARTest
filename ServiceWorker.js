@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TheEyesOfTheWind-0.1.0";
 const contentToCache = [
     "Build/TestImage.loader.js",
-    "Build/TestImage.framework.js.br",
-    "Build/TestImage.data.br",
-    "Build/TestImage.wasm.br",
+    "Build/TestImage.framework.js",
+    "Build/TestImage.data",
+    "Build/TestImage.wasm",
     "TemplateData/style.css"
 
 ];
